@@ -1,0 +1,15 @@
+﻿  cola.cpp
+C:\Users\Enzo\Desktop\Trabajo Practico 2 unid 2 Enzo Dalmasso\Trabajo Practico 2 unid 2 Enzo Dalmasso\cola.cpp(103,51): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  juego.cpp
+C:\Users\Enzo\Desktop\Trabajo Practico 2 unid 2 Enzo Dalmasso\Trabajo Practico 2 unid 2 Enzo Dalmasso\juego.cpp(107,17): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  main.cpp
+  mario.cpp
+C:\Users\Enzo\Desktop\Trabajo Practico 2 unid 2 Enzo Dalmasso\Trabajo Practico 2 unid 2 Enzo Dalmasso\mario.cpp(12,28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Enzo\Desktop\Trabajo Practico 2 unid 2 Enzo Dalmasso\Trabajo Practico 2 unid 2 Enzo Dalmasso\mario.cpp(12,23): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Nodo.cpp
+  pila.cpp
+C:\Users\Enzo\Desktop\Trabajo Practico 2 unid 2 Enzo Dalmasso\Trabajo Practico 2 unid 2 Enzo Dalmasso\pila.cpp(117,51): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+C:\Users\Enzo\Desktop\Trabajo Practico 2 unid 2 Enzo Dalmasso\Trabajo Practico 2 unid 2 Enzo Dalmasso\pila.cpp(229): warning C4715: 'pila::mandar_spr': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Enzo\Desktop\Trabajo Practico 2 unid 2 Enzo Dalmasso\Trabajo Practico 2 unid 2 Enzo Dalmasso\cola.cpp(166): warning C4715: 'cola::mandar_spr': no todas las rutas de acceso de control devuelven un valor
+  Trabajo Practico 2 unid 2 Enzo Dalmasso.vcxproj -> C:\Users\Enzo\Desktop\Trabajo Practico 2 unid 2 Enzo Dalmasso\x64\Debug\Trabajo Practico 2 unid 2 Enzo Dalmasso.exe
